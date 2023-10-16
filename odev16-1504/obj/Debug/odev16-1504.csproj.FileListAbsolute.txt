@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev16-1504\odev16-1504\obj\Debug\odev16-1504.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev16-1504\odev16-1504\obj\Debug\odev16_1504.UserControl1.resources
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev16-1504\odev16-1504\obj\Debug\odev16-1504.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Yeni klasör\semanur12\odev16-1504\odev16-1504\obj\Debug\odev16-1504.csproj.CoreCompileInputs.cache
